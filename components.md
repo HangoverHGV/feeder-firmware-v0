@@ -10,6 +10,7 @@
 
 <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/4d535577-be92-4432-b69d-2fbffd1f0ff5" />
 
-4. [VL53L1X](https://www.drot.ro/platforma-arduino/34677-senzor-de-distan-a-tof-laser-vl53l1x.html)
+4. [VL53L0X](https://www.bitmi.ro/electronica/modul-senzor-distanta-laser-gy-53-vl53l0x-tof-3v-5vdc-12608.html)
 
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/79aba894-af00-4a9c-935c-c34660c37c22" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/561a6341-6a89-4448-b1c9-5ff2b1e6de57" />
+
